@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Python Developer looking to branch out into bigger projects! I've taken the task of maintaining my own fork of Discord Python, formally maintained by Rapptz. I hope to learn a lot as I go, and make some friends along the way!
+I'm a Python Developer looking to learn as much as possible and eventually make my own coding language one day. I mostly work with the Discord API currently and implement everything and anything into Discord bots :)
 
 **📲 This is me on discord:**
 
