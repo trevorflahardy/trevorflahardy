@@ -1,10 +1,23 @@
 ### Hi there 👋
-I'm a Python Developer looking to learn as much as possible and eventually make my own coding language one day. I mostly work with the Discord API currently and implement everything and anything into Discord bots :)
+As an avid full-stack developer, my insatiable appetite for knowledge drives me to continually expand my skills. I firmly believe that every individual possesses unique talents and perspectives, which can greatly enrich collaborative efforts. The key lies in our willingness to listen and embrace diverse ideas truly.
 
-**📲 This is me on discord:**
+While I find immense joy in creating Discord bots, my primary passion lies in crafting practical applications that positively impact the lives of my users. My main focus centers around developing highly useful apps that seamlessly integrate into their daily routines, making their lives easier and more fulfilling. 
+
+**📲 This is me on Discord:**
 
 ![Discord](https://discord.c99.nl/widget/theme-1/146348630926819328.png)
 
-[![My server](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Chai%20Support%20Server)](https://discord.gg/hCMtFkG) [![My User](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=My%20User:%20Chai%239762)](https://discordapp.com/users/146348630926819328/)
+## Languages and Tools
+<p align-"center">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/rust.svg" alt="Rust" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="JS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" alt="PSQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" alt="MYSQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/redis.svg" alt="REDIS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" alt="VSCODE" height="40" style="vertical-align:top; margin:4px">
+</p>
 
-<img alt="Chai's GitHub Stats" height="156em" src="https://github-readme-stats.vercel.app/api?username=NextChai&bg_color=30,e96443,4839a3&title_color=79D9F9&text_color=79D9F9&show_icons=true&theme=dracula">
