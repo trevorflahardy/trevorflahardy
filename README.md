@@ -3,6 +3,8 @@ As an avid full-stack developer, my insatiable appetite for knowledge drives me 
 
 While I find immense joy in creating Discord bots, my primary passion lies in crafting practical applications that positively impact the lives of my users. My main focus centers around developing highly useful apps that seamlessly integrate into their daily routines, making their lives easier and more fulfilling. 
 
+Find my [**Linkedin**](https://www.linkedin.com/in/trevorflahardy/) here.
+
 **📲 This is me on Discord:**
 
 ![Discord](https://discord.c99.nl/widget/theme-1/146348630926819328.png)
